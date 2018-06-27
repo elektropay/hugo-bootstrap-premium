@@ -1,5 +1,5 @@
 # hostname (and path) to the root eg. https://appernetic.github.io/
-baseurl = "/"
+baseurl = "https://www.elektropay.com"
 
 # Remark if you want to disable multilingual support.
 DefaultContentLanguage = "en"
@@ -137,7 +137,7 @@ extensionmask = []
 [Languages.en]
 languageCode = "en"
 weight = 1
-copyright = "(c) 2016 Copyright my blog"
+copyright = "(c) 2018 Copyright Elektropay.com"
 title = "My blog" # Site title
 
 [[Languages.en.menu.main]]
@@ -151,14 +151,14 @@ url = "/post/"
 name = "About"
 weight = 1
 identifier = ""
-url = "https://appernetic.io/app/#/about"
+url = "https://elektropay.com/app/#/about"
 pre = "<i class='fa fa-road'></i>"
 
 [[Languages.en.menu.main]]
 name = "Dashboard"
 identifier = ""
 weight = 3
-url = "https://appernetic.io/app/"
+url = "https://elektropay.com/app/"
 
 [[Languages.en.menu.footer]] # add  links to the bottom right corner.
 name = "Disclaimer"
